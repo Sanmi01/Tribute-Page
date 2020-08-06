@@ -1,0 +1,28 @@
+.heading {
+    background-color: grey;
+}
+
+#title {
+    font-size: 70px;
+    margin-bottom: 25px;
+    font-family: loral;
+}
+
+h5 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-family: loral;
+}
+
+img {
+    display: inline-block;
+    margin-bottom: 25px;
+}
+
+.heading {
+    text-align: center;
+}
+
+#main {
+    text-align: left;
+}
