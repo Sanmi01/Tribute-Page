@@ -17,6 +17,8 @@ h5 {
 img {
     display: inline-block;
     margin-bottom: 25px;
+    max-width: 100%;
+    height: auto;
 }
 
 .heading {
@@ -24,5 +26,5 @@ img {
 }
 
 #main {
-    text-align: left;
+    text-align: justify;
 }
